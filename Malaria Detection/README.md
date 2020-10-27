@@ -7,7 +7,7 @@ The purpose of this notebook is to classify the Malaria dataset into parasitized
 * Convolutional Neural Networks
 * Transfer Learning
 
-### Technologies
+### Libraries
 * Python
 * Numpy
 * Pandas
