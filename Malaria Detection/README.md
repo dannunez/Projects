@@ -8,18 +8,17 @@ The purpose of this notebook is to classify the Malaria dataset into parasitized
 * Transfer Learning
 
 ### Libraries
-* Python
-* Numpy
-* Pandas
-* Matplotlib
-* Wordcloud
-* Sklearn
-* Tensorflow
-* VisualKeras
-* Shutil
-* OS
-* CV2
-* Mlxtend
+* Python version 3.8
+* Numpy version 1.19.1
+* Pandas version 1.1.3
+* Matplotlib version 3.3.1
+* Sklearn version 0.23.2
+* Tensorflow version 2.3.1
+* VisualKeras version 0.0.1
+* Shutil version 1.7.0
+* OS (included with python)
+* CV2 version 4.4.0
+* Mlxtend version 0.17.3
 
 ## References
 * Brownlee, J. (2020, August 25). Use Early Stopping to Halt the Training of Neural Networks At the Right Time. Retrieved October 24, 2020, from https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
