@@ -7,11 +7,11 @@ The purpose of this notebook is to perform a sentiment analysis on a dataset fro
 * Supervised Machine Learning
 
 ### Libraries
-* Numpy
-* Pandas
-* Matplotlib
-* Wordcloud
-* Sklearn
+* Numpy version 1.19.1
+* Pandas version 1.1.3
+* Matplotlib version 3.3.1
+* Wordcloud version 1.8.0
+* Sklearn version 0.23.2
 
 ## References
 Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
